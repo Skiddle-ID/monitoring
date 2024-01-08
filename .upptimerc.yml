@@ -7,19 +7,10 @@ sites:
     url: https://skiddle.id
   - name: Private Wiki (wiki.skiddle.id)
     url: https://wiki.skiddle.id
-  - name: Private Mastodon (chat.skiddle.id)
-    url: https://chat.skiddle.id
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
-      - 503
   - name: Mail System
     url: https://skiddle.id
   - name: Wordpress Blog
     url: https://skiddle.my.id
-  - name: Skiddle Network
-    url: https://skiddle.network
   - name: Skiddle Network Gateway
     url: https://skiddle.cloudflareaccess.com/
 
