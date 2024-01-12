@@ -9,8 +9,10 @@ sites:
     url: https://wiki.skiddle.id
   - name: Mail System
     url: https://skiddle.id
-  - name: Wordpress Blog
-    url: https://skiddle.my.id
+  - name: Private Git
+    url: https://git.skiddle.id
+  - name: API Services
+    url: https://api.skiddle.id
   - name: Skiddle Network Gateway
     url: https://skiddle.cloudflareaccess.com/
 
