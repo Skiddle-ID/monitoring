@@ -13,6 +13,8 @@ sites:
     url: https://git.skiddle.id
   - name: API Services
     url: https://api.skiddle.id
+  - name: CheckDomain API
+    url: https://chkdomain.my.id/api
   - name: Skiddle Network Gateway
     url: https://skiddle.cloudflareaccess.com/
 
