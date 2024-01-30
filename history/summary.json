@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-30": 53,
+      "2024-01-30": 819,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
@@ -108,6 +108,24 @@
       "2024-01-13": 1440,
       "2024-01-12": 1096
     }
+  },
+  {
+    "name": "CheckDomain API",
+    "url": "https://chkdomain.my.id/api",
+    "icon": "https://icons.duckduckgo.com/ip3/chkdomain.my.id.ico",
+    "slug": "check-domain-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 862,
+    "timeDay": 862,
+    "timeWeek": 862,
+    "timeMonth": 862,
+    "timeYear": 862,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Skiddle Network Gateway",
