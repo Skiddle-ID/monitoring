@@ -33,10 +33,6 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
       
-commitMessages:
-  commitAuthorName: "Laurensius Jeffrey"
-  commitAuthorEmail: "vrusolik@gmail.com"
-      
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
