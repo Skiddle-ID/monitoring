@@ -12,7 +12,7 @@ sites:
   - name: Private Git
     url: https://git.skiddle.id
   - name: API Services
-    url: https://api.skiddle.id
+    url: $API_URL
   - name: CheckDomain API
     url: https://chkdomain.my.id/api
   - name: Skiddle Network Gateway
