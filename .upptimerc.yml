@@ -34,8 +34,8 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 commitMessages:
-  commitAuthorName: "Laurensius Jeffrey"
-  commitAuthorEmail: "vrusolik@gmail.com"
+  commitAuthorName: "Skiddle Git Assistant"
+  commitAuthorEmail: "160487326+Skiddle-Git@users.noreply.github.com"
       
 workflowSchedule:
   graphs: "0 0 * * *"
