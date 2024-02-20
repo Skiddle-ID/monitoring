@@ -13,6 +13,8 @@ sites:
     url: https://git.skiddle.id
   - name: API Services
     url: $API_URL
+  - name: Metrics Services
+    url: $METRICS_API
   - name: CheckDomain API
     url: https://chkdomain.my.id/api
   - name: Skiddle Network Gateway
