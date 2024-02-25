@@ -11,6 +11,8 @@ sites:
     url: https://skiddle.id
   - name: Private Git
     url: https://git.skiddle.id
+  - name: Personal Archiver
+    url: https://archive.skiddle.id
   - name: API Services
     url: $API_URL
   - name: Metrics Services
