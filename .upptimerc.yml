@@ -42,6 +42,8 @@ status-website:
 commitMessages:
   commitAuthorName: "Skiddle Git Assistant"
   commitAuthorEmail: "160487326+Skiddle-Git@users.noreply.github.com"
+
+skipDeleteIssues: true
       
 workflowSchedule:
   graphs: "0 0 * * *"
