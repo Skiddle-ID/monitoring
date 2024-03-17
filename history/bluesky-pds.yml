@@ -1,7 +1,7 @@
-url: https://skiddle.network
+url: https://skiddle.network/xrpc/_health
 status: up
 code: 200
-responseTime: 229
-lastUpdated: 2024-03-17T10:17:32.741Z
+responseTime: 268
+lastUpdated: 2024-03-17T10:27:51.445Z
 startTime: 2024-03-16T13:28:35.542Z
 generator: Upptime <https://github.com/upptime/upptime>
