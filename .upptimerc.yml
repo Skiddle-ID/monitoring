@@ -16,7 +16,7 @@ sites:
   - name: Personal Archiver
     url: https://archive.skiddle.id
   - name: Bluesky PDS
-    url: https://skiddle.network
+    url: https://skiddle.network/xrpc/_health
   - name: API Services
     url: $API_URL
   - name: Metrics Services
