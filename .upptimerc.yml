@@ -13,8 +13,6 @@ sites:
     url: https://git.skiddle.id
   - name: NTFY Services
     url: https://ntfy.skiddle.id
-  - name: Personal Archiver
-    url: https://archive.skiddle.id
   - name: Bluesky PDS
     url: https://skiddle.network/xrpc/_health
   - name: API Services
