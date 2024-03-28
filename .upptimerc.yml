@@ -9,8 +9,6 @@ sites:
     url: https://wiki.skiddle.id
   - name: Mail System
     url: https://skiddle.id
-  - name: Private Git
-    url: https://git.skiddle.id
   - name: NTFY Services
     url: https://ntfy.skiddle.id
   - name: Bluesky PDS
