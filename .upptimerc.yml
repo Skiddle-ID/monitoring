@@ -9,10 +9,10 @@ sites:
     url: https://wiki.skiddle.id
   - name: Mail System
     url: https://skiddle.id
-  - name: NTFY Services
-    url: https://ntfy.skiddle.id
-  - name: Bluesky PDS
-    url: https://skiddle.network/xrpc/_health
+  # - name: NTFY Services
+  #   url: https://ntfy.skiddle.id
+  - name: Skiddle Network (FireFish)
+    url: https://skiddle.network/
   - name: API Services
     url: $API_URL
   - name: Metrics Services
