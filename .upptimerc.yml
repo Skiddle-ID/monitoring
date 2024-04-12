@@ -30,6 +30,8 @@ sites:
       - 404
   - name: Dummy Wordpress
     url: https://skiddle.my.id
+  - name: Seedbox & Plex
+    url: $IP_SEEDBOX
 
   # SERVER PING
   - name: GITHUB CI Nodes
