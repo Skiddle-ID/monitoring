@@ -23,6 +23,11 @@ sites:
     url: https://git.skiddle.id
   - name: Skiddle CDN
     url: $CDN_URL
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
+      - 404
   - name: Dummy Wordpress
     url: https://skiddle.my.id
 
@@ -30,7 +35,7 @@ sites:
   - name: GITHUB CI Nodes
     check: "tcp-ping"
     url: $GITCI_SERVER
-    port: 53
+    port: 22
   - name: SG1 Nodes
     check: "tcp-ping"
     url: $IP_SG1
