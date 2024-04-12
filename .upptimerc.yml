@@ -32,6 +32,7 @@ sites:
     url: https://skiddle.my.id
   - name: Seedbox & Plex
     url: $IP_SEEDBOX
+    __dangerous__insecure: true
 
   # SERVER PING
   - name: GITHUB CI Nodes
