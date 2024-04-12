@@ -9,8 +9,8 @@ sites:
     url: https://wiki.skiddle.id
   - name: Mail System
     url: https://skiddle.id
-  # - name: NTFY Services
-  #   url: https://ntfy.skiddle.id
+  - name: NTFY Services
+    url: https://ntfy.skiddle.id
   - name: Skiddle Network (FireFish)
     url: https://skiddle.network/
   - name: API Services
@@ -19,8 +19,22 @@ sites:
     url: $METRICS_API
   - name: CheckDomain API
     url: https://chkdomain.my.id/api
-  - name: Skiddle Network Gateway
-    url: https://skiddle.cloudflareaccess.com/
+  - name: Private Git
+    url: https://git.skiddle.id
+  - name: Skiddle CDN
+    url: $CDN_URL
+  - name: Dummy Wordpress
+    url: https://skiddle.my.id
+
+  # SERVER PING
+  - name: GITHUB CI Nodes
+    check: "tcp-ping"
+    url: $GITCI_SERVER
+    port: 53
+  - name: SG1 Nodes
+    check: "tcp-ping"
+    url: $IP_SG1
+    port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
