@@ -1,7 +1,7 @@
 url: $IP_DE1
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-04-13T12:15:55.004Z
+status: up
+code: 200
+responseTime: 106
+lastUpdated: 2024-04-13T12:22:06.701Z
 startTime: 2024-04-13T12:14:39.941Z
 generator: Upptime <https://github.com/upptime/upptime>
