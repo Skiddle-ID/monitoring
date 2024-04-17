@@ -13,7 +13,7 @@
     "time": 174,
     "timeDay": 161,
     "timeWeek": 143,
-    "timeMonth": 160,
+    "timeMonth": 161,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2024-04-01": 11,
@@ -77,7 +77,7 @@
     "timeMonth": 735,
     "timeYear": 749,
     "dailyMinutesDown": {
-      "2024-04-17": 616,
+      "2024-04-17": 631,
       "2024-04-16": 1440,
       "2024-04-15": 1440,
       "2024-04-14": 1440,
@@ -103,19 +103,19 @@
     "url": "https://skiddle.network/",
     "icon": "https://icons.duckduckgo.com/ip3/skiddle.network.ico",
     "slug": "skiddle-network-fire-fish",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 596,
-    "timeDay": 470,
-    "timeWeek": 615,
-    "timeMonth": 596,
-    "timeYear": 596,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 590,
+    "timeDay": 473,
+    "timeWeek": 606,
+    "timeMonth": 590,
+    "timeYear": 590,
     "dailyMinutesDown": {
-      "2024-04-17": 0
+      "2024-04-17": 15
     }
   },
   {
@@ -179,7 +179,7 @@
     "time": 518,
     "timeDay": 404,
     "timeWeek": 530,
-    "timeMonth": 500,
+    "timeMonth": 495,
     "timeYear": 518,
     "dailyMinutesDown": {}
   },
@@ -197,7 +197,7 @@
     "time": 926,
     "timeDay": 680,
     "timeWeek": 772,
-    "timeMonth": 1122,
+    "timeMonth": 1126,
     "timeYear": 926,
     "dailyMinutesDown": {
       "2024-03-28": 28,
@@ -222,7 +222,7 @@
     "timeMonth": 134,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2024-04-17": 616,
+      "2024-04-17": 631,
       "2024-04-16": 1440,
       "2024-04-15": 1440,
       "2024-04-14": 1440,
