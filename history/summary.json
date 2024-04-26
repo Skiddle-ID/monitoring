@@ -77,7 +77,7 @@
     "timeMonth": 654,
     "timeYear": 735,
     "dailyMinutesDown": {
-      "2024-04-26": 911,
+      "2024-04-26": 926,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
@@ -232,7 +232,7 @@
     "timeMonth": 108,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2024-04-26": 911,
+      "2024-04-26": 926,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
@@ -363,9 +363,9 @@
     "url": "$GITCI_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "github-ci-nodes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
@@ -375,6 +375,7 @@
     "timeMonth": 225,
     "timeYear": 225,
     "dailyMinutesDown": {
+      "2024-04-26": 0,
       "2024-04-12": 6
     }
   },
@@ -383,19 +384,19 @@
     "url": "$IP_SG1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sg-1-nodes",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 289,
     "timeDay": 238,
     "timeWeek": 269,
     "timeMonth": 289,
     "timeYear": 289,
     "dailyMinutesDown": {
-      "2024-04-26": 1,
+      "2024-04-26": 15,
       "2024-04-25": 10
     }
   },
