@@ -1,7 +1,7 @@
 url: $IP_SG1
-status: down
-code: 0
+status: up
+code: 200
 responseTime: 0
-lastUpdated: 2024-04-26T19:44:04.732Z
+lastUpdated: 2024-04-26T19:55:23.833Z
 startTime: 2024-04-12T10:16:29.414Z
 generator: Upptime <https://github.com/upptime/upptime>
