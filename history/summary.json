@@ -77,7 +77,7 @@
     "timeMonth": 114,
     "timeYear": 726,
     "dailyMinutesDown": {
-      "2024-05-03": 140,
+      "2024-05-03": 160,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
@@ -239,7 +239,7 @@
     "timeMonth": 126,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2024-05-03": 140,
+      "2024-05-03": 160,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
@@ -399,12 +399,12 @@
     "url": "$IP_SG1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sg-1-nodes",
-    "status": "up",
-    "uptime": "87.30%",
-    "uptimeDay": "44.04%",
-    "uptimeWeek": "62.51%",
-    "uptimeMonth": "87.30%",
-    "uptimeYear": "87.30%",
+    "status": "down",
+    "uptime": "87.47%",
+    "uptimeDay": "44.64%",
+    "uptimeWeek": "62.97%",
+    "uptimeMonth": "87.47%",
+    "uptimeYear": "87.47%",
     "time": 276,
     "timeDay": 195,
     "timeWeek": 203,
@@ -416,7 +416,7 @@
       "2024-05-01": 762,
       "2024-04-30": 852,
       "2024-04-29": 812,
-      "2024-04-28": 545
+      "2024-04-28": 498
     }
   },
   {
