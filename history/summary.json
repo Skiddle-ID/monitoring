@@ -77,7 +77,7 @@
     "timeMonth": 114,
     "timeYear": 724,
     "dailyMinutesDown": {
-      "2024-05-04": 454,
+      "2024-05-04": 477,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
@@ -142,11 +142,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-services",
     "status": "up",
-    "uptime": "75.78%",
+    "uptime": "75.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.78%",
+    "uptimeYear": "75.79%",
     "time": 250,
     "timeDay": 420,
     "timeWeek": 281,
@@ -215,7 +215,7 @@
     "time": 983,
     "timeDay": 26306,
     "timeWeek": 4526,
-    "timeMonth": 1608,
+    "timeMonth": 1640,
     "timeYear": 983,
     "dailyMinutesDown": {
       "2024-03-28": 28,
@@ -240,7 +240,7 @@
     "timeMonth": 124,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2024-05-04": 454,
+      "2024-05-04": 478,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
@@ -401,12 +401,12 @@
     "url": "$IP_SG1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sg-1-nodes",
-    "status": "up",
-    "uptime": "89.07%",
-    "uptimeDay": "61.67%",
-    "uptimeWeek": "65.82%",
-    "uptimeMonth": "89.07%",
-    "uptimeYear": "89.07%",
+    "status": "down",
+    "uptime": "89.31%",
+    "uptimeDay": "62.36%",
+    "uptimeWeek": "66.55%",
+    "uptimeMonth": "89.31%",
+    "uptimeYear": "89.31%",
     "time": 276,
     "timeDay": 0,
     "timeWeek": 193,
@@ -418,7 +418,7 @@
       "2024-05-02": 666,
       "2024-05-01": 762,
       "2024-04-30": 852,
-      "2024-04-29": 344
+      "2024-04-29": 270
     }
   },
   {
