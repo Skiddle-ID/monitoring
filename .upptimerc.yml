@@ -39,7 +39,7 @@ sites:
       - arcestia
       
   - name: CheckDomain API
-    url: https://chkdomain.my.id/api
+    url: $CEKDOMAINAPI
     assignees:
       - arcestia
       
