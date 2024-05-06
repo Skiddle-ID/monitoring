@@ -77,14 +77,14 @@ sites:
   - name: GITHUB CI Nodes
     check: "tcp-ping"
     url: $GITCI_SERVER
-    port: 22
+    port: $PORT_CHECK
     assignees:
       - arcestia
       
   - name: SG1 Nodes
     check: "tcp-ping"
     url: $IP_SG1
-    port: 53
+    port: $PORT_CHECK
     assignees:
       - arcestia
       
