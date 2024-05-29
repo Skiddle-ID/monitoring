@@ -109,6 +109,13 @@ sites:
     assignees:
       - arcestia
 
+  - name: DE2 Nodes
+    check: "tcp-ping"
+    url: $IP_DE2
+    port: $SECRET_PORT
+    assignees:
+      - arcestia
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
