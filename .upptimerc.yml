@@ -18,10 +18,10 @@ sites:
     assignees:
       - arcestia
       
-  - name: NTFY Services
-    url: https://ntfy.skiddle.id
-    assignees:
-      - arcestia
+  # - name: NTFY Services
+  #   url: https://ntfy.skiddle.id
+  #   assignees:
+  #     - arcestia
       
   - name: Skiddle Network (FireFish)
     url: https://skiddle.network/
@@ -33,20 +33,20 @@ sites:
     assignees:
       - arcestia
       
-  - name: Metrics Services
-    url: $METRICS_API
-    assignees:
-      - arcestia
+  # - name: Metrics Services
+  #   url: $METRICS_API
+  #   assignees:
+  #     - arcestia
       
   - name: CheckDomain API
     url: $CEKDOMAINAPI
     assignees:
       - arcestia
       
-  - name: Private Git
-    url: https://git.skiddle.id
-    assignees:
-      - arcestia
+  # - name: Private Git
+  #   url: https://git.skiddle.id
+  #   assignees:
+  #     - arcestia
       
   - name: Skiddle CDN
     url: $CDN_URL
@@ -73,6 +73,11 @@ sites:
     assignees:
       - arcestia
 
+  - name: Check Domains 
+    url: https://nawalacheck.skiddle.id
+    assignees:
+      - arcestia
+
   # SERVER PING
   - name: GITHUB CI Nodes
     check: "tcp-ping"
@@ -81,12 +86,12 @@ sites:
     assignees:
       - arcestia
       
-  - name: SG1 Nodes
-    check: "tcp-ping"
-    url: $IP_SG1
-    port: $PORT_CHECK
-    assignees:
-      - arcestia
+  # - name: SG1 Nodes
+  #   check: "tcp-ping"
+  #   url: $IP_SG1
+  #   port: $PORT_CHECK
+  #   assignees:
+  #     - arcestia
       
   - name: SG2 Nodes
     check: "tcp-ping"
