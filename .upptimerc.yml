@@ -96,7 +96,7 @@ sites:
   - name: SG2 Nodes
     check: "tcp-ping"
     url: $IP_SG2
-    port: 22
+    port: $SECRET_PORT
     assignees:
       - arcestia
       
