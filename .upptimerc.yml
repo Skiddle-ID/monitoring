@@ -58,11 +58,6 @@ sites:
       - 403
       - 404
       
-  - name: Dummy Wordpress
-    url: https://skiddle.my.id
-    assignees:
-      - arcestia
-      
   - name: Seedbox & Plex
     url: $IP_SEEDBOX
     assignees:
