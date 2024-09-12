@@ -1,7 +1,7 @@
 url: $CDN_URL
-status: down
-code: 503
-responseTime: 1738
-lastUpdated: 2024-09-12T17:30:24.798Z
+status: up
+code: 403
+responseTime: 642
+lastUpdated: 2024-09-12T17:41:44.104Z
 startTime: 2024-04-12T10:16:18.593Z
 generator: Upptime <https://github.com/upptime/upptime>
