@@ -28,8 +28,8 @@ sites:
     assignees:
       - arcestia
       
-  - name: API Services
-    url: $API_URL
+  - name: Bluesky PDS
+    url: https://pds.skiddle.id
     assignees:
       - arcestia
       
