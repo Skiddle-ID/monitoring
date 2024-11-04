@@ -1,7 +1,7 @@
 url: $GITCI_SERVER
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-04T15:15:26.270Z
+status: up
+code: 200
+responseTime: 531
+lastUpdated: 2024-11-04T15:33:41.665Z
 startTime: 2024-04-12T10:16:23.892Z
 generator: Upptime <https://github.com/upptime/upptime>
