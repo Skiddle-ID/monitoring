@@ -55,6 +55,7 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
+      - 400
       - 403
       - 404
       
