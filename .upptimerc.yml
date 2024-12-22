@@ -23,11 +23,6 @@ sites:
   #   assignees:
   #     - arcestia
       
-  - name: Skiddle Network (FireFish)
-    url: https://skiddle.network/
-    assignees:
-      - arcestia
-      
   - name: Bluesky PDS
     url: https://pds.skiddle.id
     assignees:
@@ -58,21 +53,6 @@ sites:
       - 400
       - 403
       - 404
-      
-  - name: Seedbox & Plex
-    url: $IP_SEEDBOX
-    assignees:
-      - arcestia
-
-  - name: Maloja 
-    url: https://listen.skiddle.id
-    assignees:
-      - arcestia
-
-  - name: Check Domains 
-    url: https://nawalacheck.skiddle.id
-    assignees:
-      - arcestia
 
   # SERVER PING
   - name: GITHUB CI Nodes
@@ -89,33 +69,33 @@ sites:
   #   assignees:
   #     - arcestia
       
-  - name: SG2 Nodes
-    check: "tcp-ping"
-    url: $IP_SG2
-    port: $SECRET_PORT
-    assignees:
-      - arcestia
+  # - name: SG2 Nodes
+  #   check: "tcp-ping"
+  #   url: $IP_SG2
+  #   port: $SECRET_PORT
+  #   assignees:
+  #     - arcestia
       
-  - name: SG3 Nodes
-    check: "tcp-ping"
-    url: $IP_SG3
-    port: $SECRET_PORT
-    assignees:
-      - arcestia
+  # - name: SG3 Nodes
+  #   check: "tcp-ping"
+  #   url: $IP_SG3
+  #   port: $SECRET_PORT
+  #   assignees:
+  #     - arcestia
       
-  - name: DE1 Nodes
-    check: "tcp-ping"
-    url: $IP_DE1
-    port: $SECRET_PORT
-    assignees:
-      - arcestia
+  # - name: DE1 Nodes
+  #   check: "tcp-ping"
+  #   url: $IP_DE1
+  #   port: $SECRET_PORT
+  #   assignees:
+  #     - arcestia
 
-  - name: DE2 Nodes
-    check: "tcp-ping"
-    url: $IP_DE2
-    port: $SECRET_PORT
-    assignees:
-      - arcestia
+  # - name: DE2 Nodes
+  #   check: "tcp-ping"
+  #   url: $IP_DE2
+  #   port: $SECRET_PORT
+  #   assignees:
+  #     - arcestia
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
