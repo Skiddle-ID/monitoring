@@ -38,10 +38,10 @@ sites:
     assignees:
       - arcestia
       
-  # - name: Private Git
-  #   url: https://git.skiddle.id
-  #   assignees:
-  #     - arcestia
+  - name: Private Git
+    url: https://git.skiddle.id
+    assignees:
+      - arcestia
       
   - name: Skiddle CDN
     url: $CDN_URL
@@ -55,12 +55,12 @@ sites:
       - 404
 
   # SERVER PING
-  - name: GITHUB CI Nodes
-    check: "tcp-ping"
-    url: $GITCI_SERVER
-    port: $PORT_CHECK
-    assignees:
-      - arcestia
+  # - name: GITHUB CI Nodes
+  #   check: "tcp-ping"
+  #   url: $GITCI_SERVER
+  #   port: $PORT_CHECK
+  #   assignees:
+  #     - arcestia
       
   # - name: SG1 Nodes
   #   check: "tcp-ping"
