@@ -39,7 +39,7 @@ sites:
       - arcestia
       
   - name: Private Git
-    url: https://git.skiddle.id
+    url: https://git.skiddle.cloud
     assignees:
       - arcestia
       
