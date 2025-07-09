@@ -1,7 +1,7 @@
 url: $CEKDOMAINAPI
-status: down
-code: 502
-responseTime: 321
-lastUpdated: 2025-07-08T23:18:48.609Z
+status: up
+code: 200
+responseTime: 349
+lastUpdated: 2025-07-09T03:15:32.260Z
 startTime: 2024-01-30T13:38:52.299Z
 generator: Upptime <https://github.com/upptime/upptime>
