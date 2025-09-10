@@ -13,10 +13,10 @@ sites:
     assignees:
       - arcestia
       
-  - name: Mail System
-    url: https://skiddle.id
-    assignees:
-      - arcestia
+  # - name: Mail System
+  #   url: https://email.skiddle.id
+  #   assignees:
+  #     - arcestia
       
   # - name: NTFY Services
   #   url: https://ntfy.skiddle.id
@@ -38,10 +38,10 @@ sites:
     assignees:
       - arcestia
       
-  - name: Private Git
-    url: https://git.skiddle.cloud
-    assignees:
-      - arcestia
+  # - name: Private Git
+  #   url: https://git.skiddle.cloud
+  #   assignees:
+  #     - arcestia
       
   - name: Skiddle CDN
     url: $CDN_URL
