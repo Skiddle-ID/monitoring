@@ -63,41 +63,105 @@ sites:
   #   port: $PORT_CHECK
   #   assignees:
   #     - arcestia
-      
-  # - name: SG1 Nodes
-  #   check: "tcp-ping"
-  #   url: $IP_SG1
-  #   port: $PORT_CHECK
-  #   assignees:
-  #     - arcestia
-      
-  # - name: SG2 Nodes
-  #   check: "tcp-ping"
-  #   url: $IP_SG2
-  #   port: $SECRET_PORT
-  #   assignees:
-  #     - arcestia
-      
-  # - name: SG3 Nodes
-  #   check: "tcp-ping"
-  #   url: $IP_SG3
-  #   port: $SECRET_PORT
-  #   assignees:
-  #     - arcestia
-      
-  # - name: DE1 Nodes
-  #   check: "tcp-ping"
-  #   url: $IP_DE1
-  #   port: $SECRET_PORT
-  #   assignees:
-  #     - arcestia
 
-  # - name: DE2 Nodes
-  #   check: "tcp-ping"
-  #   url: $IP_DE2
-  #   port: $SECRET_PORT
-  #   assignees:
-  #     - arcestia
+# Server SG (Singapore)
+  - name: SG-1 Nodes
+    check: "tcp-ping"
+    url: $IP_SG1
+    port: $PORT_SG1
+    assignees:
+      - skiddle-git
+      - arcestia
+      
+  - name: SG-2 Nodes
+    check: "tcp-ping"
+    url: $IP_SG2
+    port: $PORT_SG2
+    assignees:
+      - skiddle-git
+      - arcestia
+      
+  - name: SG-3 Nodes
+    check: "tcp-ping"
+    url: $IP_SG3
+    port: $PORT_SG3
+    assignees:
+      - skiddle-git
+      - arcestia
+
+  - name: SG-4 Nodes
+    check: "tcp-ping"
+    url: $IP_SG4
+    port: $PORT_SG4
+    assignees:
+      - skiddle-git
+      - arcestia
+
+# Server ID (INDONESIA)      
+  - name: ID-1 Nodes
+    check: "tcp-ping"
+    url: $IP_ID1
+    port: $PORT_ID1
+    assignees:
+      - skiddle-git
+      - arcestia
+
+  - name: ID-2 Nodes
+    check: "tcp-ping"
+    url: $IP_ID2
+    port: $PORT_ID2
+    assignees:
+      - skiddle-git
+      - arcestia
+
+  - name: ID-3 Nodes
+    check: "tcp-ping"
+    url: $IP_ID3
+    port: $PORT_ID3
+    assignees:
+      - skiddle-git
+      - arcestia
+
+  - name: ID-4 Nodes
+    check: "tcp-ping"
+    url: $IP_ID4
+    port: $PORT_ID4
+    assignees:
+      - skiddle-git
+      - arcestia
+
+  - name: ID-5 Nodes
+    check: "tcp-ping"
+    url: $IP_ID5
+    port: $PORT_ID5
+    assignees:
+      - skiddle-git
+      - arcestia
+
+  - name: ID-6 Nodes
+    check: "tcp-ping"
+    url: $IP_ID6
+    port: $PORT_ID6
+    assignees:
+      - skiddle-git
+      - arcestia
+
+  - name: ID-7 Nodes
+    check: "tcp-ping"
+    url: $IP_ID7
+    port: $PORT_ID7
+    assignees:
+      - skiddle-git
+      - arcestia
+
+# Private IP
+  - name: Internet Check
+    url: $PRIVATE_IP
+    type: globalping
+    check: icmp-ping
+    assignees:
+      - skiddle-git
+      - arcestia
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -119,7 +183,7 @@ commitMessages:
   commitAuthorEmail: "165562787+skiddle-bot@users.noreply.github.com"
 
 skipDeleteIssues: true
-      
+
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
