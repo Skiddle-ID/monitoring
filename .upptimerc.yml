@@ -157,7 +157,7 @@ sites:
 # Private IP
   - name: Internet Check
     url: $PRIVATE_IP
-    check: tcp-ping
+    check: "tcp-ping"
     port: $EXPOSE_PORT
     assignees:
       - skiddle-git
@@ -165,7 +165,7 @@ sites:
 
   - name: CDN Nodes 1
     url: $CDN_1
-    check: tcp-ping
+    check: "tcp-ping"
     port: $EXPOSE_PORT
     assignees:
       - skiddle-git
@@ -173,7 +173,7 @@ sites:
 
   - name: CDN Nodes 2
     url: $CDN_2
-    check: tcp-ping
+    check: "tcp-ping"
     port: $EXPOSE_PORT
     assignees:
       - skiddle-git
