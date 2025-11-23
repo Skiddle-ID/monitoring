@@ -13,20 +13,22 @@ sites:
     assignees:
       - arcestia
       
-  # - name: Mail System
-  #   url: https://email.skiddle.id
-  #   assignees:
-  #     - arcestia
+  - name: Mail System
+    check: "tcp-ping"
+    url: $MAIL_SERVER
+    port: $MAIL_PORT
+    assignees:
+      - arcestia
       
   # - name: NTFY Services
   #   url: https://ntfy.skiddle.id
   #   assignees:
   #     - arcestia
       
-  - name: Bluesky PDS
-    url: https://pds.skiddle.id
-    assignees:
-      - arcestia
+  # - name: Bluesky PDS
+  #   url: https://pds.skiddle.id
+  #   assignees:
+  #     - arcestia
       
   # - name: Metrics Services
   #   url: $METRICS_API
