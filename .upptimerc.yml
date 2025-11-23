@@ -156,10 +156,9 @@ sites:
 
 # Private IP
   - name: Internet Check
-    url: $PRIVATE_IP
-    check: "tcp-ping"
-    port: $EXPOSE_PORT
-    ipv6: true
+    url: $INTERNET_CHECK
+    type: globalping
+    check: icmp-ping
     assignees:
       - skiddle-git
       - arcestia
@@ -168,6 +167,7 @@ sites:
     url: $CDN_1
     check: "tcp-ping"
     port: $EXPOSE_PORT
+    delay: 2000
     assignees:
       - skiddle-git
       - arcestia
