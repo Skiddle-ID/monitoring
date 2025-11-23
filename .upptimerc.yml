@@ -155,13 +155,13 @@ sites:
       - arcestia
 
 # Private IP
-  - name: Internet Check
-    url: $INTERNET_CHECK
-    type: globalping
-    check: icmp-ping
-    assignees:
-      - skiddle-git
-      - arcestia
+  # - name: Internet Check
+  #   url: $INTERNET_CHECK
+  #   type: globalping
+  #   check: icmp-ping
+  #   assignees:
+  #     - skiddle-git
+  #     - arcestia
 
   - name: CDN Nodes 1
     url: $CDN_1
