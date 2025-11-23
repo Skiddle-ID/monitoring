@@ -159,6 +159,21 @@ sites:
     url: $PRIVATE_IP
     type: globalping
     check: icmp-ping
+    delay: 2000
+    assignees:
+      - skiddle-git
+      - arcestia
+
+  - name: CDN Nodes 1
+    url: $CDN_1
+    check: icmp-ping
+    assignees:
+      - skiddle-git
+      - arcestia
+
+  - name: CDN Nodes 2
+    url: $CDN_2
+    check: icmp-ping
     assignees:
       - skiddle-git
       - arcestia
