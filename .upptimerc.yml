@@ -159,6 +159,7 @@ sites:
     url: $PRIVATE_IP
     check: "tcp-ping"
     port: $EXPOSE_PORT
+    ipv6: true
     assignees:
       - skiddle-git
       - arcestia
