@@ -382,10 +382,10 @@
     "slug": "sg-1-nodes",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "69.82%",
-    "uptimeWeek": "69.82%",
-    "uptimeMonth": "69.82%",
-    "uptimeYear": "69.82%",
+    "uptimeDay": "58.58%",
+    "uptimeWeek": "58.58%",
+    "uptimeMonth": "58.58%",
+    "uptimeYear": "58.58%",
     "time": 215,
     "timeDay": 0,
     "timeWeek": 0,
@@ -609,18 +609,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "internet-check",
     "status": "down",
-    "uptime": "8.66%",
-    "uptimeDay": "8.66%",
-    "uptimeWeek": "8.66%",
-    "uptimeMonth": "8.66%",
-    "uptimeYear": "8.66%",
+    "uptime": "3.46%",
+    "uptimeDay": "3.46%",
+    "uptimeWeek": "3.46%",
+    "uptimeMonth": "3.46%",
+    "uptimeYear": "3.46%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-23": 0
+      "2025-11-23": 1
     }
   }
 ]
