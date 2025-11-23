@@ -33,10 +33,10 @@ sites:
   #   assignees:
   #     - arcestia
       
-  - name: CheckDomain API
-    url: $CEKDOMAINAPI
-    assignees:
-      - arcestia
+  # - name: CheckDomain API
+  #   url: $CEKDOMAINAPI
+  #   assignees:
+  #     - arcestia
       
   # - name: Private Git
   #   url: https://git.skiddle.cloud
