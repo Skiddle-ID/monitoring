@@ -20,20 +20,20 @@ sites:
     assignees:
       - arcestia
       
-  # - name: NTFY Services
-  #   url: https://ntfy.skiddle.id
-  #   assignees:
-  #     - arcestia
+  - name: Skiddle API (Honolife API)
+    url: https://api.skiddle.id
+    assignees:
+      - arcestia
       
-  # - name: Bluesky PDS
-  #   url: https://pds.skiddle.id
-  #   assignees:
-  #     - arcestia
+  - name: Skiddle Vault
+    url: https://vault.skiddle.id
+    assignees:
+      - arcestia
       
-  # - name: Metrics Services
-  #   url: $METRICS_API
-  #   assignees:
-  #     - arcestia
+  - name: Skiddle Links
+    url: https://skiddle.link
+    assignees:
+      - arcestia
       
   # - name: CheckDomain API
   #   url: $CEKDOMAINAPI
