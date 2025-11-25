@@ -3,14 +3,28 @@ owner: Skiddle-ID # Your GitHub organization or username, where this repository 
 repo: monitoring # The name of this repository
 
 sites:
-  - name: Main Website
+  - name: skiddle.id
     url: https://skiddle.id
     assignees:
+      - skiddle-git
+      - arcestia
+
+  - name: skiddle.blue
+    url: https://skiddle.blue
+    assignees:
+      - skiddle-git
+      - arcestia
+
+  - name: Nawala Domain Checker
+    url:  https://nawalacheck.skiddle.id
+    assignees:
+      - skiddle-git
       - arcestia
       
   - name: Private Wiki (wiki.skiddle.id)
     url: https://wiki.skiddle.id
     assignees:
+      - skiddle-git
       - arcestia
       
   - name: Mail System
@@ -18,21 +32,25 @@ sites:
     url: $MAIL_SERVER
     port: $MAIL_PORT
     assignees:
+      - skiddle-git
       - arcestia
       
   - name: Skiddle API (Honolife API)
     url: https://api.skiddle.id
     assignees:
+      - skiddle-git
       - arcestia
       
   - name: Skiddle Vault
     url: https://vault.skiddle.id
     assignees:
+      - skiddle-git
       - arcestia
       
   - name: Skiddle Links
     url: https://skiddle.link
     assignees:
+      - skiddle-git
       - arcestia
       
   # - name: CheckDomain API
@@ -48,6 +66,7 @@ sites:
   - name: Skiddle CDN
     url: $CDN_URL
     assignees:
+      - skiddle-git
       - arcestia
     expectedStatusCodes:
       - 200
