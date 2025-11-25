@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/skiddle.blue.ico",
     "slug": "skiddle-blue",
     "status": "down",
-    "uptime": "3.14%",
-    "uptimeDay": "3.14%",
-    "uptimeWeek": "3.14%",
-    "uptimeMonth": "3.14%",
-    "uptimeYear": "3.14%",
+    "uptime": "1.99%",
+    "uptimeDay": "1.99%",
+    "uptimeWeek": "1.99%",
+    "uptimeMonth": "1.99%",
+    "uptimeYear": "1.99%",
     "time": 376,
     "timeDay": 376,
     "timeWeek": 376,
     "timeMonth": 376,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2025-11-25": 0
+      "2025-11-25": 1
     }
   },
   {
