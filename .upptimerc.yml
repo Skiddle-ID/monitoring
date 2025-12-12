@@ -220,7 +220,7 @@ commitMessages:
   commitAuthorName: "skiddle-bot"
   commitAuthorEmail: "165562787+skiddle-bot@users.noreply.github.com"
 
-skipDeleteIssues: true
+skipDeleteIssues: false
 
 workflowSchedule:
   graphs: "0 0 * * *"
