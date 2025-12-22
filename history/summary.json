@@ -42,9 +42,9 @@
     "url": "https://nawalacheck.skiddle.id",
     "icon": "https://icons.duckduckgo.com/ip3/nawalacheck.skiddle.id.ico",
     "slug": "nawala-domain-checker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 404,
     "timeMonth": 786,
     "timeYear": 786,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-22": 0
+    }
   },
   {
     "name": "Private Wiki (wiki.skiddle.id)",
@@ -101,7 +103,7 @@
     "timeDay": 20,
     "timeWeek": 49,
     "timeMonth": 37,
-    "timeYear": 736,
+    "timeYear": 735,
     "dailyMinutesDown": {
       "2025-09-10": 44,
       "2025-08-25": 657,
@@ -321,11 +323,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sg-2-nodes",
     "status": "up",
-    "uptime": "31.66%",
+    "uptime": "32.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.94%",
+    "uptimeYear": "100.00%",
     "time": 206,
     "timeDay": 211,
     "timeWeek": 189,
@@ -343,7 +345,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.94%",
+    "uptimeYear": "100.00%",
     "time": 205,
     "timeDay": 210,
     "timeWeek": 188,
