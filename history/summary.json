@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nawalacheck.skiddle.id.ico",
     "slug": "nawala-domain-checker",
     "status": "down",
-    "uptime": "75.61%",
+    "uptime": "74.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "71.57%",
-    "uptimeYear": "75.61%",
+    "uptimeMonth": "70.16%",
+    "uptimeYear": "74.70%",
     "time": 786,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 582,
     "timeYear": 786,
     "dailyMinutesDown": {
-      "2025-12-31": 86,
+      "2025-12-31": 708,
       "2025-12-30": 1440,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
@@ -331,7 +331,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sg-2-nodes",
     "status": "up",
-    "uptime": "48.12%",
+    "uptime": "48.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -349,7 +349,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sg-3-nodes",
     "status": "up",
-    "uptime": "19.52%",
+    "uptime": "20.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -528,9 +528,9 @@
     "url": "$CDN_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cdn-nodes-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -539,6 +539,8 @@
     "timeWeek": 30,
     "timeMonth": 27,
     "timeYear": 23,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-31": 0
+    }
   }
 ]
