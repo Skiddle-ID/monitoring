@@ -17,11 +17,11 @@ sites:
       - skiddle-git
       - arcestia
 
-  - name: Nawala Domain Checker
-    url:  https://nawalacheck.skiddle.id
-    assignees:
-      - skiddle-git
-      - arcestia
+  # - name: Nawala Domain Checker
+  #   url:  https://nawalacheck.skiddle.id
+  #   assignees:
+  #     - skiddle-git
+  #     - arcestia
       
   - name: Private Wiki (wiki.skiddle.id)
     url: https://wiki.skiddle.id
