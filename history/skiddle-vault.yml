@@ -1,7 +1,7 @@
 url: https://vault.skiddle.id
-status: up
-code: 200
-responseTime: 673
-lastUpdated: 2026-06-21T00:05:09.730Z
+status: down
+code: 502
+responseTime: 476
+lastUpdated: 2026-06-21T23:10:14.025Z
 startTime: 2025-11-23T16:09:52.703Z
 generator: Upptime <https://github.com/upptime/upptime>
