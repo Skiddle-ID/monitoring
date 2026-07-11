@@ -12,7 +12,7 @@ sites:
   - name: skiddle.blue
     url: https://skiddle.blue
     expectedStatusCodes:
-      - 403
+      - 200
     assignees:
       - skiddle-git
       - arcestia
